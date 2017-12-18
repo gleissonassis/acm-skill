@@ -1,0 +1,22 @@
+﻿CheckAvailabilityIntent is this room free {date} at {time}
+CheckAvailabilityIntent can i use use this room {date} for the next {duration}
+CheckAvailabilityIntent can i use use this room {date} for {duration}
+CheckAvailabilityIntent anyone is using this room {date} at {time}
+CheckAvailabilityIntent anyone is using this room
+CheckAvailabilityIntent this room is free
+CheckAvailabilityIntent this room is available {date} at {time}
+CheckAvailabilityIntent is free for the next {duration}
+
+ScheduleIntent schedule a meeting for {slot value|responsible} {date} at {time}
+ScheduleIntent schedule a meeting for {slot value|responsible} {date} for the next {duration}
+ScheduleIntent schedule a {duration} meeting for {slot value|responsible} {date}
+ScheduleIntent reserve a time slot in this room for {slot value|responsible} {date} at {time}
+ScheduleIntent reserve this room for {slot value|responsible} {date} at {time}
+ScheduleIntent create a new event in this room for {slot value|responsible} {date} at {time}
+ScheduleIntent create a new event in this room for {slot value|responsible} {date} at {time}
+ScheduleIntent new meeting in {date} at {time} for {slot value|responsible} 
+ScheduleIntent new meeting in {date} at {time} for {slot value|responsible} 
+ScheduleIntent reserve this room for the next {duration} the responsible is {slot value|responsible}
+
+AMAZON.HelpIntent assistance needed please
+AMAZON.HelpIntent i need assistence
